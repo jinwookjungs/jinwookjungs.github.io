@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### **Executive Summary**
+### **Short Biography**
 **Jinwook Jung** received the B.E. degree in computer and systems engineering from Kobe University, Japan, in 2011. 
 He was a recipient of Korea-Japan Joint Government Scholarship Program for Students in Science and Engineering Departments, one of the most prestigious scholarship programs in Korea, which includes an exemption to tuition fees as well as living expenses for 5 years (about USD 110k in total). 
 He received the M.E. degree (graduation with honors) in system informatics at the same university, in 2013.
@@ -29,7 +29,7 @@ His current research interests include VLSI physical design, design for manufact
 * **LG Electronics**, Seoul, Korea
     * Visiting Researcher (July 2013 - February 2014)
 * **Kobe University**, Hyogo, Japan
-    * Research Assistant (September 2013 - PRESENT)
+    * Research Assistant (April 2011 - March 2013)
 
 ### **Research Interests**
 * VLSI physical design
