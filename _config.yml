@@ -23,7 +23,7 @@ github_username:  jinwookjungs@gmail.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-simple-texture
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
