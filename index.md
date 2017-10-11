@@ -44,6 +44,9 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 #### **Conferences**
+1. Jaewoo Seo, **Jinwook Jung**, and Youngsoo Shin, "A Compact Multi-Bit Flip-Flop with Smaller Height Implementation and Metal-Less Clock Routing," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018 (to appear).
+1. Youngsoo Song, **Jinwook Jung**, Daijoon Hyun, and Youngsoo Shin, "Timing Optimization in SADP Process through Wire Widening and Double Via Insertion," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018 (to appear).
+1. **Jinwook Jung**, Pei-Yu Lee, Yan-Shiun Wu, Nima Darav, Iris Hui-Ru Jiang, Gi-Joon Nam, Victor N. Kravets, Laleh Behjat, and Yih-Lang Li, “DATC RDF: Robust Design Flow Database,” *in Proceedings of the 2017 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, Nov. 2017 (to appear).
 1. Youngsoo Song, **Jinwook Jung**, and Youngsoo Shin„ “Redundant Via Insertion in SADP Process with Cut Merging and Optimization,” in *Proceedings of the 25th IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)*, Oct. 2017.
 1. Jaewoo Seo, **Jinwook Jung**, Sangmin Kim, and Youngsoo Shin, “Pin Accessibility-Driven Cell Layout Redesign and Placement Optimization,” in *Proceedings of the 54th Design Automation Conference (DAC)*, June 2017. 
 1. Youngsoo Song, **Jinwook Jung**, and Youngsoo Shin, “Redundant Via Insertion with Cut Optimization for Self-Aligned Double Patterning,” in *Proceedings of 2017 Grate Lakes Symposium on VLSI (GLSVLSI)*, May 2017.
@@ -71,3 +74,4 @@ His current research interests include VLSI physical design, design for manufact
 
 ## **References**
 Available upon request.
+
