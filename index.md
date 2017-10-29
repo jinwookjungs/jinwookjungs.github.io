@@ -37,7 +37,7 @@ His current research interests include VLSI physical design, design for manufact
 * Design automation of non-traditional computing
 
 ### **Publications**
-#### **Journal**
+#### **Journals**
 1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems* (accepted).
 1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Na- gata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Reconfiguring Cache Associativity: Adaptive Cache Design for Wide-Range Reliable Low-Voltage Operation Using 7T/14T SRAM,” *IEICE Transactions on Electronics*, vol. E96-C, no. 4, pp. 528–537, Apr. 2013.
@@ -61,6 +61,16 @@ His current research interests include VLSI physical design, design for manufact
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi and Masahiko Yoshimoto, “A Variation-Aware 0.57-V Set-Associative Cache with Mixed Associativity Using 7T/14T SRAM,” in *Proceedings of the 11th IEEE Faible Tension Faible Consommation (IEEE FTFC)*, June 2012, pp. 1–4.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi and Masahiko Yoshimoto, “256-KB Associativity-Reconfigurable Cache with 7T/14T SRAM for Aggressive DVS Down to 0.57 V,” in *Proceedings of the 18th IEEE International Conference on Electronics, Circuits and Systems (IEEE ICECS)*, Dec. 2011, pp. 524–527.
 {: reversed="reversed"}
+
+
+#### **Domestic Conferences**
+1. Yuta Kimi, **Jinwook Jung**, Yohei Nakata, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Spin-Transfer Torque RAM Cache Energy Reduction using Zero-Data Flags,” *Technical Report of IEICE*, April 2013. (In Japanese)
+1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Variation-Aware Low-Voltage Set-Associative Cache with Mixed-Associativity,” *Technical Report of IEICE*, vol. 112, no. 170, ICD2012-31, pp. 1-6, Aug, 2012. (In Japanese)
+1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Associativity-Variable Cache and its Margin Enhancing Feature,” in *Digest of 2012 LSI and Systems Workshop*, May 2012, pp. 207-209. (In Japanese)
+1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Associativity-Variable Cache to Adaptively Expand Operating Voltage Margin,” *Technical Report of IEICE*, vol. 111, no. 388, ICD2011-139, pp. 55-60, Jan. 2012. (In Japanese)
+1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Low- Voltage Cache Architecture with Word-Enhancing Scheme using 7T/14T Depend- able SRAM,” in *Digest of 2011 LSI and Systems Workshop*, May 2011, pp. 209-211. (In Japanese)
+{: reversed="reversed"}
+
 
 ### **Patents**
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
