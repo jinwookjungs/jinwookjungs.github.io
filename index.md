@@ -6,12 +6,13 @@ layout: default
 **Jinwook Jung** received the B.E. degree in computer and systems engineering from Kobe University, Japan, in 2011. 
 He was a recipient of Korea-Japan Joint Government Scholarship Program for Students in Science and Engineering Departments, one of the most prestigious scholarship programs in Korea, which includes an exemption to tuition fees as well as living expenses for 5 years (about USD 110k in total). 
 He received the M.E. degree (graduation with honors) in system informatics at the same university, in 2013.
-Jinwook subsequently came back to Korea and joined Prof. Youngsoo Shin’s research group in EE department at KAIST, where he is currently a Ph.D. candidate. 
+Jinwook subsequently came back to Korea and joined Prof. Youngsoo Shin’s research group in EE department at KAIST, where he received the Ph.D. degree in electrical engineering.
+He is currently a postdoctoral researcher at KAIST.
 His current research interests include VLSI physical design, design for manufacturability, and design automation of genetic/DNA circuits.
 
 ### **Education**
 * **KAIST**, Daejeon, Korea
-    * Ph.D. Candidate, Department of Electrical Engineering (September 2013 - PRESENT)
+    * Ph.D. Candidate, Department of Electrical Engineering (September 2013 - February 2018)
 
 * **Kobe University**, Hyogo, Japan
     * M.E. (Hons.), Graduate School of System Informatics (April 2011 - March 2013)
@@ -20,6 +21,8 @@ His current research interests include VLSI physical design, design for manufact
     * B.E., Kobe University, Hyogo, Japan (April 2007 - March 2011)
 
 ### **Experience**
+* **KAIST**, Daejeon, Korea
+    * Postdoctoral Researcher (March 2018 - PRESENT)
 * **IBM Thomas J. Watson Research Center**, NY, United States
     * Research Intern (February 2017 - May 2017)
 * **IBM Thomas J. Watson Research Center**, NY, United States
@@ -36,16 +39,36 @@ His current research interests include VLSI physical design, design for manufact
 * Design for manufacturability
 * Design automation of non-traditional computing
 
+### **Honors and Awards**
+* Student Travel Grant for SIGDA Student Research Forum at ASP-DAC 2018
+    * ACM SIGDA, Jan. 2018
+* Student Travel Grant for SIGDA Student Research Competition at ICCAD 2016
+    * ACM SIGDA, Nov. 2016
+* 2015 Annual Honor Roll Award
+    * Korea Advanced Institute of Science and Technology, Sept. 2015
+* 2014 IEEE Circuits & Systems Society Student Travel Award
+    * IEEE CAS Society, Oct. 2014
+* Richard A. Newton Young Fellow Award
+    * ACM SIGDA, June 2014
+* Distinguished Graduate Student Award
+    * Kobe University, Mar. 2013
+* Rotary Yoneyama Memorial Master Course Scholarship (1-year scholarship)
+    * Rotary Yoneyama Memorial Foundation, Apr. 2012--Mar. 2013
+* Korea-Japan Joint Government Scholarship (5-year full scholarship)
+    * Korea and Japan Governments, Mar. 2006--Mar. 2011
+
 ### **Publications**
 #### **Journals**
-1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems* (accepted).
+1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems*, Nov. 2017.
 1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Na- gata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Reconfiguring Cache Associativity: Adaptive Cache Design for Wide-Range Reliable Low-Voltage Operation Using 7T/14T SRAM,” *IEICE Transactions on Electronics*, vol. E96-C, no. 4, pp. 528–537, Apr. 2013.
 {: reversed="reversed"}
 
 #### **Conferences**
-1. Jaewoo Seo, **Jinwook Jung**, and Youngsoo Shin, "A Compact Multi-Bit Flip-Flop with Smaller Height Implementation and Metal-Less Clock Routing," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018 (to appear).
-1. Youngsoo Song, **Jinwook Jung**, Daijoon Hyun, and Youngsoo Shin, "Timing Optimization in SADP Process through Wire Widening and Double Via Insertion," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018 (to appear).
+1. Yonghwi Kwon, **Jinwook Jung**, Inhak Han, and Youngsoo Shin, "Transient Clock Power Estimation of Pre-CTS Netlist,” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018. (To appear)
+1. Jingon Lee, **Jinwook Jung**, and Youngsoo Shin, “Fast Timing Analysis of Transistor-level Full Custom Digital Circuits” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018. (To appear)
+1. Jaewoo Seo, **Jinwook Jung**, and Youngsoo Shin, "A Compact Multi-Bit Flip-Flop with Smaller Height Implementation and Metal-Less Clock Routing," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018, pp. 105880A:1–105880A:10.
+1. Youngsoo Song, **Jinwook Jung**, Daijoon Hyun, and Youngsoo Shin, "Timing Optimization in SADP Process through Wire Widening and Double Via Insertion," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018, pp. 105880R:1–105880R:8.
 1. **Jinwook Jung**, Pei-Yu Lee, Yan-Shiun Wu, Nima Darav, Iris Hui-Ru Jiang, Victor N. Kravets, Laleh Behjat, Yih-Lang Li, and Gi-Joon Nam, “DATC RDF: Robust Design Flow Database,” *in Proceedings of the 2017 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, Nov. 2017, pp. 872-873.
 1. Youngsoo Song, **Jinwook Jung**, and Youngsoo Shin„ “Redundant Via Insertion in SADP Process with Cut Merging and Optimization,” in *Proceedings of the 25th IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)*, Oct. 2017, pp. 1-6.
 1. Jaewoo Seo, **Jinwook Jung**, Sangmin Kim, and Youngsoo Shin, “Pin Accessibility-Driven Cell Layout Redesign and Placement Optimization,” in *Proceedings of the 54th Design Automation Conference (DAC)*, June 2017, pp. 54:1-54:6. 
@@ -63,8 +86,14 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 
-#### **Domestic Conferences**
-1. Yuta Kimi, **Jinwook Jung**, Yohei Nakata, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Spin-Transfer Torque RAM Cache Energy Reduction using Zero-Data Flags,” *Technical Report of IEICE*, April 2013. (In Japanese)
+#### **Domestic Journals and Conferences**
+
+1. Jingon Lee, **Jinwook Jung**, Youngsoo Shin, “Fast Timing Analysis of Full Custom Digital Circuits with Accurate Gate RC Modeling,” *The 25th Korean Conference on Semiconductors*, Feb. 2018. (In Korean)
+1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Optimizing Timing Margin for Timing Closure, Area, and Power,” *The 23rd Korean Conference on Semiconductors*, Feb. 2016. (In Korean)
+1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Net- work with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Simultaneous Fixing Hold Violations of Best and Worst Cor- ners,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. **Jinwook Jung**, Dongsoo Lee, Youngsoo Shin, “Design and Optimization of Mesh Clock Network with Multi-Level Clock Gating,” *The 21st Korean Conference on Semiconductors*, Jan. 2014. (In Korean)
+1. Yuta Kimi, **Jinwook Jung**, Yohei Nakata, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Spin-Transfer Torque RAM Cache Energy Reduction using Zero-Data Flags,” *Technical Report of IEICE*, vol. 113, no. 1, ICD2013-10, pp. 47–52, Apr. 2013. (In Japanese)
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Variation-Aware Low-Voltage Set-Associative Cache with Mixed-Associativity,” *Technical Report of IEICE*, vol. 112, no. 170, ICD2012-31, pp. 1-6, Aug, 2012. (In Japanese)
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Associativity-Variable Cache and its Margin Enhancing Feature,” in *Digest of 2012 LSI and Systems Workshop*, May 2012, pp. 207-209. (In Japanese)
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Associativity-Variable Cache to Adaptively Expand Operating Voltage Margin,” *Technical Report of IEICE*, vol. 111, no. 388, ICD2011-139, pp. 55-60, Jan. 2012. (In Japanese)
@@ -73,6 +102,8 @@ His current research interests include VLSI physical design, design for manufact
 
 
 ### **Patents**
+5. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
+4. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
