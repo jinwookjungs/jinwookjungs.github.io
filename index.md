@@ -13,10 +13,8 @@ His current research interests include VLSI physical design, design for manufact
 ### **Education**
 * **KAIST**, Daejeon, Korea
     * Ph.D. Candidate, Department of Electrical Engineering (Sept. 2013 - Feb. 2018)
-
 * **Kobe University**, Hyogo, Japan
     * M.E. (Hons.), Graduate School of System Informatics (Apr. 2011 - Mar. 2013)
-
 * **Kobe University**, Hyogo, Japan
     * B.E., Kobe University, Hyogo, Japan (Apr. 2007 - Mar. 2011)
 
@@ -89,8 +87,8 @@ His current research interests include VLSI physical design, design for manufact
 #### **Domestic Journals and Conferences**
 1. Jingon Lee, **Jinwook Jung**, Youngsoo Shin, “Fast Timing Analysis of Full Custom Digital Circuits with Accurate Gate RC Modeling,” *The 25th Korean Conference on Semiconductors*, Feb. 2018. (In Korean)
 1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Optimizing Timing Margin for Timing Closure, Area, and Power,” *The 23rd Korean Conference on Semiconductors*, Feb. 2016. (In Korean)
-1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Net- work with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
-1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Simultaneous Fixing Hold Violations of Best and Worst Cor- ners,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Network with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Simultaneous Fixing Hold Violations of Best and Worst Corners,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
 1. **Jinwook Jung**, Dongsoo Lee, Youngsoo Shin, “Design and Optimization of Mesh Clock Network with Multi-Level Clock Gating,” *The 21st Korean Conference on Semiconductors*, Jan. 2014. (In Korean)
 1. Yuta Kimi, **Jinwook Jung**, Yohei Nakata, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Spin-Transfer Torque RAM Cache Energy Reduction using Zero-Data Flags,” *Technical Report of IEICE*, vol. 113, no. 1, ICD2013-10, pp. 47–52, Apr. 2013. (In Japanese)
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Variation-Aware Low-Voltage Set-Associative Cache with Mixed-Associativity,” *Technical Report of IEICE*, vol. 112, no. 170, ICD2012-31, pp. 1-6, Aug, 2012. (In Japanese)
