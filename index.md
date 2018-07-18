@@ -12,27 +12,25 @@ His current research interests include VLSI physical design, design for manufact
 
 ### **Education**
 * **KAIST**, Daejeon, Korea
-    * Ph.D. Candidate, Department of Electrical Engineering (September 2013 - February 2018)
-
+    * Ph.D. Candidate, Department of Electrical Engineering (Sept. 2013 - Feb. 2018)
 * **Kobe University**, Hyogo, Japan
-    * M.E. (Hons.), Graduate School of System Informatics (April 2011 - March 2013)
-
+    * M.E. (Hons.), Graduate School of System Informatics (Apr. 2011 - Mar. 2013)
 * **Kobe University**, Hyogo, Japan
-    * B.E., Kobe University, Hyogo, Japan (April 2007 - March 2011)
+    * B.E., Kobe University, Hyogo, Japan (Apr. 2007 - Mar. 2011)
 
 ### **Experience**
 * **KAIST**, Daejeon, Korea
-    * Postdoctoral Researcher (March 2018 - PRESENT)
+    * Postdoctoral Researcher (Mar. 2018 - PRESENT)
 * **IBM Thomas J. Watson Research Center**, NY, United States
-    * Research Intern (February 2017 - May 2017)
+    * Research Intern (Feb. 2017 - May 2017)
 * **IBM Thomas J. Watson Research Center**, NY, United States
-    * Research Intern (July 2015 - December 2015)
+    * Research Intern (July 2015 - Dec. 2015)
 * **KAIST**, Daejeon, Korea
-    * Research Assistant (September 2013 - PRESENT)
+    * Research Assistant (Sept. 2013 - Feb. 2018)
 * **LG Electronics**, Seoul, Korea
-    * Visiting Researcher (July 2013 - February 2014)
+    * Visiting Researcher (July 2013 - Feb. 2014)
 * **Kobe University**, Hyogo, Japan
-    * Research Assistant (April 2011 - March 2013)
+    * Research Assistant (Apr. 2011 - Mar. 2013)
 
 ### **Research Interests**
 * VLSI physical design
@@ -89,8 +87,8 @@ His current research interests include VLSI physical design, design for manufact
 #### **Domestic Journals and Conferences**
 1. Jingon Lee, **Jinwook Jung**, Youngsoo Shin, “Fast Timing Analysis of Full Custom Digital Circuits with Accurate Gate RC Modeling,” *The 25th Korean Conference on Semiconductors*, Feb. 2018. (In Korean)
 1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Optimizing Timing Margin for Timing Closure, Area, and Power,” *The 23rd Korean Conference on Semiconductors*, Feb. 2016. (In Korean)
-1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Net- work with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
-1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Simultaneous Fixing Hold Violations of Best and Worst Cor- ners,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Network with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
+1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Simultaneous Fixing Hold Violations of Best and Worst Corners,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
 1. **Jinwook Jung**, Dongsoo Lee, Youngsoo Shin, “Design and Optimization of Mesh Clock Network with Multi-Level Clock Gating,” *The 21st Korean Conference on Semiconductors*, Jan. 2014. (In Korean)
 1. Yuta Kimi, **Jinwook Jung**, Yohei Nakata, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Spin-Transfer Torque RAM Cache Energy Reduction using Zero-Data Flags,” *Technical Report of IEICE*, vol. 113, no. 1, ICD2013-10, pp. 47–52, Apr. 2013. (In Japanese)
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Variation-Aware Low-Voltage Set-Associative Cache with Mixed-Associativity,” *Technical Report of IEICE*, vol. 112, no. 170, ICD2012-31, pp. 1-6, Aug, 2012. (In Japanese)
@@ -99,11 +97,10 @@ His current research interests include VLSI physical design, design for manufact
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A Low- Voltage Cache Architecture with Word-Enhancing Scheme using 7T/14T Depend- able SRAM,” in *Digest of 2011 LSI and Systems Workshop*, May 2011, pp. 209-211. (In Japanese)
 {: reversed="reversed"}
 
-
 ### **Patents**
-5. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
-4. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
-3. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov.\ 2016. (Application No.\ US20180121575A1)}
+1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
+1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
+1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov.\ 2016. (Application No.\ US20180121575A1)}
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
@@ -112,7 +109,6 @@ His current research interests include VLSI physical design, design for manufact
 ### **Book Chapters**
 1. **Jinwook Jung**, Dongsoo Lee, and Youngsoo Shin, “Design and Optimization of Multiple-Mesh Clock Network,” Chapter 3, VLSI-SoC: Internet of Things Foundations, Springer, 2015.
 {: reversed="reversed"}
-
 
 ## **References**
 Available upon request.
