@@ -100,7 +100,7 @@ His current research interests include VLSI physical design, design for manufact
 ### **Patents**
 1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
 1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
-1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov.\ 2016. (Application No.\ US20180121575A1)}
+1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov. 2016. (Application No. US20180121575A1)
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
@@ -114,5 +114,5 @@ His current research interests include VLSI physical design, design for manufact
 Available upon request.
 
 
-## **Last Updated**
-Thu Jul 19 01:12:40 KST 2018
+<br>
+Last updated: Thu Jul 19 01:12:40 KST 2018
