@@ -87,7 +87,6 @@ His current research interests include VLSI physical design, design for manufact
 
 
 #### **Domestic Journals and Conferences**
-
 1. Jingon Lee, **Jinwook Jung**, Youngsoo Shin, “Fast Timing Analysis of Full Custom Digital Circuits with Accurate Gate RC Modeling,” *The 25th Korean Conference on Semiconductors*, Feb. 2018. (In Korean)
 1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, “Optimizing Timing Margin for Timing Closure, Area, and Power,” *The 23rd Korean Conference on Semiconductors*, Feb. 2016. (In Korean)
 1. **Jinwook Jung**, Youngsoo Shin, “Managing Power Consumption and Clock Skew using Mesh Clock Net- work with Multiple Subtrees,” *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
@@ -102,11 +101,13 @@ His current research interests include VLSI physical design, design for manufact
 
 
 ### **Patents**
-5. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
-4. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
+5. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
+4. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
+3. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov.\ 2016. (Application No.\ US20180121575A1)}
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
+
 
 ### **Book Chapters**
 1. **Jinwook Jung**, Dongsoo Lee, and Youngsoo Shin, “Design and Optimization of Multiple-Mesh Clock Network,” Chapter 3, VLSI-SoC: Internet of Things Foundations, Springer, 2015.
@@ -116,3 +117,6 @@ His current research interests include VLSI physical design, design for manufact
 ## **References**
 Available upon request.
 
+
+## **Last Updated**
+Thu Jul 19 01:12:40 KST 2018
