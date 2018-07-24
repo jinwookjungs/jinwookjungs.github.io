@@ -63,8 +63,9 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 #### **Conferences**
-1. Yonghwi Kwon, **Jinwook Jung**, Inhak Han, and Youngsoo Shin, "Transient Clock Power Estimation of Pre-CTS Netlist,” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018. (To appear)
-1. Jingon Lee, **Jinwook Jung**, and Youngsoo Shin, “Fast Timing Analysis of Transistor-level Full Custom Digital Circuits” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018. (To appear)
+1. Iris Hui-Ru Jiang, **Jinwook Jung**, Jianli Chen, Yih-Lang Li, Victor N. Kravets, and Gi-Joon Nam, "DATC RDF: From Logic Synthesis to Detailed Routing," in *Proceedings of the IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Nov. 2018. (To appear)
+1. Yonghwi Kwon, **Jinwook Jung**, Inhak Han, and Youngsoo Shin, "Transient Clock Power Estimation of Pre-CTS Netlist,” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018.
+1. Jingon Lee, **Jinwook Jung**, and Youngsoo Shin, “Fast Timing Analysis of Transistor-level Full Custom Digital Circuits” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018.
 1. Jaewoo Seo, **Jinwook Jung**, and Youngsoo Shin, "A Compact Multi-Bit Flip-Flop with Smaller Height Implementation and Metal-Less Clock Routing," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018, pp. 105880A:1–105880A:10.
 1. Youngsoo Song, **Jinwook Jung**, Daijoon Hyun, and Youngsoo Shin, "Timing Optimization in SADP Process through Wire Widening and Double Via Insertion," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018, pp. 105880R:1–105880R:8.
 1. **Jinwook Jung**, Pei-Yu Lee, Yan-Shiun Wu, Nima Darav, Iris Hui-Ru Jiang, Victor N. Kravets, Laleh Behjat, Yih-Lang Li, and Gi-Joon Nam, “DATC RDF: Robust Design Flow Database,” *in Proceedings of the 2017 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, Nov. 2017, pp. 872-873.
@@ -98,8 +99,9 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 ### **Patents**
-1. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
-1. Jaewoo Seo, *Jinwook Jung*, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
+1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
+1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
+1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, “Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement,” US patent 2018-0121575A1. Nov. 2016.
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
