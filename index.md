@@ -58,7 +58,7 @@ His current research interests include VLSI physical design, design for manufact
 ### **Publications**
 #### **Journals**
 1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems*, Nov. 2017.
-1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Na- gata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
+1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Nagata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Reconfiguring Cache Associativity: Adaptive Cache Design for Wide-Range Reliable Low-Voltage Operation Using 7T/14T SRAM,” *IEICE Transactions on Electronics*, vol. E96-C, no. 4, pp. 528–537, Apr. 2013.
 {: reversed="reversed"}
 
@@ -101,10 +101,11 @@ His current research interests include VLSI physical design, design for manufact
 ### **Patents**
 1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0005928)
 1. Jaewoo Seo, **Jinwook Jung**, Youngsoo Shin, “Semiconductor Device,” Korean patent, Jan. 2018. (Application No. P2018-0000818)
-1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, “Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement,” US patent 2018-0121575A1. Nov. 2016.
+1. **Jinwook Jung**, Frank Musante, Gi-Joon Nam, Shyam Ramji, Lakshmi Reddy, Gustavo Tellez, and Cindy S. Washburn, "Critical Path Straightening System Based On Free-Space Aware and Timing Driven Incremental Placement," US patent. Nov. 2016. (Application No. US20180121575A1)
 1. Hiroshi Kawaguchi, Masahiko Yoshimoto, Yohei Nakata, and **Jinwook Jung**, “Nonvolatile Memory Cache,” Japanese patent 2014-153965.
 1. Masahiko Yoshimoto, Hiroshi Kawaguchi, Yohei Nakata, Shunsuke Okumura, and **Jinwook Jung**, “Low-Voltage Cache with Mixed Associativity,” Japanese patent 2014-115723.
 {: reversed="reversed"}
+
 
 ### **Book Chapters**
 1. **Jinwook Jung**, Dongsoo Lee, and Youngsoo Shin, “Design and Optimization of Multiple-Mesh Clock Network,” Chapter 3, VLSI-SoC: Internet of Things Foundations, Springer, 2015.
@@ -113,3 +114,6 @@ His current research interests include VLSI physical design, design for manufact
 ## **References**
 Available upon request.
 
+
+<br>
+Last updated: Thu Jul 19 01:12:40 KST 2018
