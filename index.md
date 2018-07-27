@@ -108,6 +108,7 @@ His current research interests include VLSI physical design, design for manufact
 
 
 ### **Book Chapters**
+1. Takashi Sato, Masanori Hashimoto, Shuhei Tanakamaru, Ken Takeuchi, Yasuo Sato, Seiji Kajihara, Masahiko Yoshimoto, **Jinwook Jung**, Yuta Kimi, Hiroshi Kawaguchi, Hajime Shimada, and Jun Yao, "Time-Dependent Degradation in Device Characteristics and Countermeasures by Design," Chapter 6, VLSI Design and Test for Systems Dependability, Springer, 2019.
 1. **Jinwook Jung**, Dongsoo Lee, and Youngsoo Shin, “Design and Optimization of Multiple-Mesh Clock Network,” Chapter 3, VLSI-SoC: Internet of Things Foundations, Springer, 2015.
 {: reversed="reversed"}
 
