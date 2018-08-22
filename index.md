@@ -38,26 +38,26 @@ His current research interests include VLSI physical design, design for manufact
 * Design automation of non-traditional computing
 
 ### **Honors and Awards**
-* Student Travel Grant for SIGDA Student Research Forum at ASP-DAC 2018
+* **Student Travel Grant for SIGDA Student Research Forum at ASP-DAC 2018**
     * ACM SIGDA, Jan. 2018
-* Student Travel Grant for SIGDA Student Research Competition at ICCAD 2016
+* **Student Travel Grant for SIGDA Student Research Competition at ICCAD 2016**
     * ACM SIGDA, Nov. 2016
-* 2015 Annual Honor Roll Award
+* **2015 Annual Honor Roll Award**
     * Korea Advanced Institute of Science and Technology, Sept. 2015
-* 2014 IEEE Circuits & Systems Society Student Travel Award
+* **2014 IEEE Circuits & Systems Society Student Travel Award**
     * IEEE CAS Society, Oct. 2014
-* Richard A. Newton Young Fellow Award
+* **Richard A. Newton Young Fellow Award**
     * ACM SIGDA, June 2014
-* Distinguished Graduate Student Award
+* **Distinguished Graduate Student Award**
     * Kobe University, Mar. 2013
-* Rotary Yoneyama Memorial Master Course Scholarship (1-year scholarship)
+* **Rotary Yoneyama Memorial Master Course Scholarship** (1-year scholarship)
     * Rotary Yoneyama Memorial Foundation, Apr. 2012--Mar. 2013
-* Korea-Japan Joint Government Scholarship (5-year full scholarship)
+* **Korea-Japan Joint Government Scholarship** (5-year full scholarship)
     * Korea and Japan Governments, Mar. 2006--Mar. 2011
 
 ### **Publications**
 #### **Journals**
-1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems*, Nov. 2017.
+1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems*, vol. 37, no. 9, pp. 1825-1838, Sep. 2018.
 1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Nagata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Reconfiguring Cache Associativity: Adaptive Cache Design for Wide-Range Reliable Low-Voltage Operation Using 7T/14T SRAM,” *IEICE Transactions on Electronics*, vol. E96-C, no. 4, pp. 528–537, Apr. 2013.
 {: reversed="reversed"}
