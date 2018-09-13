@@ -7,16 +7,16 @@ layout: default
 He was a recipient of Korea-Japan Joint Government Scholarship Program for Students in Science and Engineering Departments, one of the most prestigious scholarship programs in Korea, which includes an exemption to tuition fees as well as living expenses for 5 years (about USD 110k in total). 
 He received the M.E. degree (graduation with honors) in system informatics at the same university, in 2013.
 Jinwook subsequently came back to Korea and joined Prof. Youngsoo Shin’s research group in EE department at KAIST, where he received the Ph.D. degree in electrical engineering.
-He is currently a postdoctoral researcher at KAIST.
+He is currently a postdoctoral researcher at KAIST, and serves as a committee member of IEEE CEDA Design Automation Technology Committee.
 His current research interests include VLSI physical design, design for manufacturability, and design automation of genetic/DNA circuits.
 
 ### **Education**
 * **KAIST**, Daejeon, Korea
     * Ph.D. Candidate, Department of Electrical Engineering (Sept. 2013 - Feb. 2018)
 * **Kobe University**, Hyogo, Japan
-    * M.E. (Hons.), Graduate School of System Informatics (Apr. 2011 - Mar. 2013)
+    * M.E., Graduate School of System Informatics (Apr. 2011 - Mar. 2013)
 * **Kobe University**, Hyogo, Japan
-    * B.E., Kobe University, Hyogo, Japan (Apr. 2007 - Mar. 2011)
+    * B.E., Department of Computer and Systems Engineering (Apr. 2007 - Mar. 2011)
 
 ### **Experience**
 * **KAIST**, Daejeon, Korea
@@ -63,7 +63,6 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 #### **Conferences**
-1. Iris Hui-Ru Jiang, **Jinwook Jung**, Jianli Chen, Yih-Lang Li, Victor N. Kravets, and Gi-Joon Nam, "DATC RDF: From Logic Synthesis to Detailed Routing," in *Proceedings of the IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Nov. 2018. (To appear)
 1. Yonghwi Kwon, **Jinwook Jung**, Inhak Han, and Youngsoo Shin, "Transient Clock Power Estimation of Pre-CTS Netlist,” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018.
 1. Jingon Lee, **Jinwook Jung**, and Youngsoo Shin, “Fast Timing Analysis of Transistor-level Full Custom Digital Circuits” in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018.
 1. Jaewoo Seo, **Jinwook Jung**, and Youngsoo Shin, "A Compact Multi-Bit Flip-Flop with Smaller Height Implementation and Metal-Less Clock Routing," in *Proceedings of SPIE Advanced Lithography*, Feb. 2018, pp. 105880A:1–105880A:10.
@@ -117,4 +116,4 @@ Available upon request.
 
 
 <br>
-Last updated: Thu Jul 19 01:12:40 KST 2018
+Last updated: Thu Sep 13 17:49:46 KST 2018
