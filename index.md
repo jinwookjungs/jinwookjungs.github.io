@@ -6,8 +6,8 @@ layout: default
 **Jinwook Jung** received the B.E. degree in computer and systems engineering from Kobe University, Japan, in 2011, and received the M.E. degree (graduation with honors) in system informatics at the same university, in 2013. 
 He was a recipient of Korea-Japan Joint Government Scholarship Program for Students in Science and Engineering Departments, one of the most prestigious scholarship programs in Korea, which includes an exemption to tuition fees as well as living expenses for 5 years (about USD 110k in total). 
 Jinwook subsequently came back to Korea and joined Prof. Youngsoo Shin’s research group in EE department at KAIST, where he received the Ph.D. degree in electrical engineering in 2018.
-He is currently a postdoctoral researcher at KAIST. 
-He serves as a committee member of IEEE CEDA Design Automation Technology Committee.
+He is currently a Research Staff Member at IBM Thomas J. Watson Research Center, Yorktown Heights, NY. 
+He also serves as a committee member of IEEE CEDA Design Automation Technology Committee.
 His current research interests include VLSI physical design, design for manufacturability, and design automation of non-conventional computing systems.
 
 ### **Education**
@@ -19,8 +19,10 @@ His current research interests include VLSI physical design, design for manufact
     * B.E., Department of Computer and Systems Engineering (Apr. 2007 - Mar. 2011)
 
 ### **Experience**
+* **IBM Thomas J. Watson Research Center**, NY, United States
+    * Research Staff Member (Nov. 2018 - PRESENT)
 * **KAIST**, Daejeon, Korea
-    * Postdoctoral Researcher (Mar. 2018 - PRESENT)
+    * Postdoctoral Researcher (Mar. 2018 - Nov. 2018)
 * **IBM Thomas J. Watson Research Center**, NY, United States
     * Research Intern (Feb. 2017 - May 2017)
 * **IBM Thomas J. Watson Research Center**, NY, United States
