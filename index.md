@@ -90,6 +90,7 @@ His current research interests include VLSI physical design, design for manufact
 
 
 #### **Domestic Journals and Conferences**
+1. Youngsoo Song, **Jinwook Jung**, Youngsoo Shin, "Standard Cell Layout and Placement of TFET-based Circuits," 2018 IEIE SoC Conference, May 2018. (In Korean)
 1. Jingon Lee, **Jinwook Jung**, Youngsoo Shin, "Fast Timing Analysis of Full Custom Digital Circuits with Accurate Gate RC Modeling," *The 25th Korean Conference on Semiconductors*, Feb. 2018. (In Korean)
 1. Inhak Han, **Jinwook Jung**, Youngsoo Shin, "Optimizing Timing Margin for Timing Closure, Area, and Power," *The 23rd Korean Conference on Semiconductors*, Feb. 2016. (In Korean)
 1. **Jinwook Jung**, Youngsoo Shin, "Managing Power Consumption and Clock Skew using Mesh Clock Network with Multiple Subtrees," *The 22nd Korean Conference on Semiconductors*, Feb. 2015. (In Korean)
