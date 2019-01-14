@@ -50,7 +50,7 @@ His current research interests include VLSI physical design, design for manufact
     * IEEE CAS Society, Oct. 2014
 * **Richard A. Newton Young Fellow Award**
     * ACM SIGDA, June 2014
-* **Distinguished Graduate Student Award**
+* **Valedictorian; Distinguished Graduate Student Award**
     * Kobe University, Mar. 2013
 * **Rotary Yoneyama Memorial Master Course Scholarship** (1-year scholarship)
     * Rotary Yoneyama Memorial Foundation, Apr. 2012--Mar. 2013
