@@ -66,6 +66,7 @@ His current research interests include VLSI physical design, design for manufact
 {: reversed="reversed"}
 
 #### **Conferences**
+1. Youngsoo Song, **Jinwook Jung**, and Youngsoo Shin, "Standard Cell Layout Design and Placement Optimization for TFET-based Circuits," in *Proceedings of the International Symposium on Circuits and Systems (ISCAS)*, May 2019 (to appear).
 1. **Jinwook Jung**, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor N. Kravets, and Gi-Joon Nam, "DATC RDF: An Open Design Flow From Logic Synthesis to Detailed Routing," in *Proceedings of the ICCAD'18 Workshop on Open-Source EDA Technology*, Nov. 2018.
 1. **Jinwook Jung**, Iris Hui-Ru Jiang, Jianli Chen, Shih-Ting Lin, Yih-Lang Li, Victor N. Kravets, and Gi-Joon Nam, "DATC RDF: From Logic Synthesis to Detailed Routing," in *Proceedings of the IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, Nov. 2018.
 1. Yonghwi Kwon, **Jinwook Jung**, Inhak Han, and Youngsoo Shin, "Transient Clock Power Estimation of Pre-CTS Netlist," in *Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2018.
