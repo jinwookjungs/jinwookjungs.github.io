@@ -59,7 +59,7 @@ His current research interests include VLSI physical design, design for manufact
 
 ### **Publications**
 #### **Journals**
-1. **Jinwook Jung**, Gi-Joon Nam, Woohyun Chung, and Youngsoo Shin,“Integrated Latch Placement and Cloning for Timing Optimization,” *ACM Transactions on Design Automation of Electronic Systems*, accepted for publication.
+1. **Jinwook Jung**, Gi-Joon Nam, Woohyun Chung, and Youngsoo Shin,“Integrated Latch Placement and Cloning for Timing Optimization,” *ACM Transactions on Design Automation of Electronic Systems*, vol. 24, no. 2, pp. 22:1-22:17, Feb. 2019.
 1. **Jinwook Jung**, Gi-Joon Nam, Lakshmi Reddy, Iris Hui-Ru Jiang, and Youngsoo Shin,“OWARU: Free Space-Aware Timing-Driven Incremental Placement with Critical Path Smoothing,” *IEEE Transactions on CAD of Integrated Circuits and Systems*, vol. 37, no. 9, pp. 1825-1838, Sep. 2018.
 1. Yohei Nakata, Yuta Kimi, Shunsuke Okumura, **Jinwook Jung**, Takuya Sawada, Taku Toshikawa, Makoto Nagata, Hirofumi Nakano, Makoto Yabuuchi, Hidehiro Fujiwara, Koji Nii, Hiroyuki Kawai, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “A 40-nm Resilient Cache Memory for Dynamic Variation Tolerance Delivering ×91 Failure Rate Improvement under 35% Supply Voltage Fluctuation,” *IEICE Transactions on Electronics*, vol. E97-C, no. 4, pp. 332–341, Apr. 2014.
 1. **Jinwook Jung**, Yohei Nakata, Shunsuke Okumura, Hiroshi Kawaguchi, and Masahiko Yoshimoto, “Reconfiguring Cache Associativity: Adaptive Cache Design for Wide-Range Reliable Low-Voltage Operation Using 7T/14T SRAM,” *IEICE Transactions on Electronics*, vol. E96-C, no. 4, pp. 528–537, Apr. 2013.
