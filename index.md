@@ -8,7 +8,7 @@ My current research effort focuses on VLSI physical design, design for manufactu
 
 ### **Education**
 * **KAIST**, Daejeon, Korea
-    * Ph.D. Candidate, Department of Electrical Engineering (Sept. 2013 - Feb. 2018)
+    * Ph.D., Department of Electrical Engineering (Sept. 2013 - Feb. 2018)
 * **Kobe University**, Hyogo, Japan
     * M.E., Graduate School of System Informatics (Apr. 2011 - Mar. 2013)
 * **Kobe University**, Hyogo, Japan
