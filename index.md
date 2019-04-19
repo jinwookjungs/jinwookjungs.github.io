@@ -3,7 +3,7 @@ layout: default
 ---
 
 I am a Research Staff Member at IBM Thomas J. Watson Research Center, Yorktown Heights, NY.
-I received the Ph.D. degree in electrical engineering from Korea Advanced Institute of Technology.
+I received the Ph.D. degree in electrical engineering from Korea Advanced Institute of Science and Technology.
 My current research effort focuses on VLSI physical design, design for manufacturability, and design automation of non-conventional computing systems.
 
 ### **Education**
